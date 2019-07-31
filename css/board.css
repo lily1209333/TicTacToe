@@ -1,0 +1,26 @@
+body {
+    background: #181818;
+}
+
+table {
+    margin: auto;
+    margin-top: 4rem;
+    width: 12rem;
+    height: 12rem;
+    border-collapse: collapse;
+}
+
+table, td {
+    border: 1px solid #ededed !important;
+}
+
+button {
+    width: 4rem;
+    height: 4rem;
+    background: transparent;
+    font-size: 3.5rem;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    color: #ededed;
+}
